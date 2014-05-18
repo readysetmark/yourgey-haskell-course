@@ -1,5 +1,5 @@
 -- CIS 194: Homework 2
--- http://www.seas.upenn.edu/~cis194/hw/01-intro.pdf
+-- http://www.seas.upenn.edu/~cis194/hw/02-ADTs.pdf
 
 {-# OPTIONS_GHC -Wall #-}
 module LogAnalysis where
